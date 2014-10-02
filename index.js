@@ -2,7 +2,7 @@ var
     Resource = require('deployd/lib/resource'), 
     util = require('util'),
     https = require('https'),
-    OAuth2 = require('OAuth').OAuth2,
+    OAuth2 = require('oauth').OAuth2,
     url = require('url');
 
 function TwitterProxy(name, options) {
