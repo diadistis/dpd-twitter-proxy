@@ -1,7 +1,7 @@
 {
   "name": "dpd-twitter-proxy",
   "description": "Twitter proxy for deployd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/diadistis/dpd-twitter-proxy",
   "author": {
     "name": "Diadistis",
